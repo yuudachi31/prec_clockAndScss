@@ -97,6 +97,7 @@ a {
   width: 400px;
   height: 400px;
   margin: 50px auto;
+  margin-bottom: 300px;
 }
 
 .clock_border {
@@ -1453,6 +1454,11 @@ div a {
 }
 .app-each:nth-child(1):before {
   content: "";
+}
+
+.github-url-title {
+  font-size: 27px;
+  margin-top: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */
