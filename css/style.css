@@ -5,7 +5,7 @@
 }
 
 a {
-  background-color: rgba(255, 255, 255, 0.572);
+  background-color: rgba(255, 255, 255, 0.582);
   padding: 5px;
 }
 
@@ -93,11 +93,13 @@ a {
 }
 
 .clock_cont {
-  background-color: #e2e4e3;
+  background-color: #fad86a65;
   width: 400px;
   height: 400px;
   margin: 50px auto;
+  border-radius: 20px;
   margin-bottom: 300px;
+  padding: 15px;
 }
 
 .clock_border {
